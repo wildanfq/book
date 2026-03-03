@@ -42,17 +42,17 @@ const pages = [
   "/posts/",
   "/zh/categories/",
   "/he/categories/",
-  "/",
   "/docs/",
   "/zh/",
   "/he/",
   "/docs/shortcodes/katex/",
+  "/",
   "/showcases/",
   "/zh/tags/",
   "/he/tags/",
   "/book.min.cc2c524ed250aac81b23d1f4af87344917b325208841feca0968fe450f570575.css",
-  "/en.search-data.min.120fab293d20786bcef83aaaf80e265c8263afadd381a491af4786a8141901a4.json",
-  "/en.search.min.5e47101278e50feb7a7fcdb01233302307e1b549fbf7d94bc40e2b8fbe5abe4b.js",
+  "/en.search-data.min.8cb117ab06c96e2ab4e270a915a5a38fcb83d11cdefe9c5d6bdf32a873f0118f.json",
+  "/en.search.min.205787ae84c779d52bcf696abb5506270b811ccadedbb4fbbfac42cf7089f87b.js",
   
 ];
 
