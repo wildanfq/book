@@ -1,12 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Docs on Hugo Book</title>
-    <link>//localhost:1313/docs/</link>
-    <description>Recent content in Docs on Hugo Book</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)</copyright>
-    <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo Book</title><link>//localhost:1313/docs/</link><description>Recent content on Hugo Book</description><generator>Hugo</generator><language>en</language><copyright>[© CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)</copyright><atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Profil</title><link>//localhost:1313/docs/mermaid/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/docs/mermaid/</guid><description>&lt;h1 id="biografi--keahlian-teknis"&gt;Biografi &amp;amp; Keahlian Teknis&lt;a class="anchor" href="#biografi--keahlian-teknis"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Nama saya &lt;strong&gt;Wildan Firmani Quraisi&lt;/strong&gt;, seorang &lt;strong&gt;Computer Engineer&lt;/strong&gt; berusia 20 tahun. Saya tumbuh di sebuah desa dengan akses teknologi yang serba terbatas. Namun, keterbatasan itulah yang justru memicu rasa ingin tahu saya yang besar terhadap bagaimana sistem komputer sebenarnya bekerja. Berangkat dari kondisi tersebut, saat ini saya berspesialisasi dalam dua ranah teknis yang saling melengkapi: operasional infrastruktur IT dan arsitektur komputer tingkat lanjut. Bagi saya, pemahaman sistem yang utuh harus dibangun dari dasarnya—mulai dari level gerbang logika perangkat keras hingga aplikasi yang berjalan di tangan pengguna.&lt;/p&gt;</description></item></channel></rss>
