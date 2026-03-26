@@ -70,18 +70,18 @@ enableGitInfo = true
 
 [[menu.home]]
   name = 'Github'
-  url = 'https://github.com/alex-shpak/hugo-book/'
+  url = 'https://github.com/alex-shpa/hugo-book/'
   weight = 3
 
 # [[menu.before]]
 [[menu.after]]
   name = 'Github'
-  url = 'https://github.com/alex-shpak/hugo-book/'
+  url = 'https://github.com/wildanfq'
   weight = 10
 
 [[menu.after]]
-  name = 'Hugo Themes'
-  url = 'https://themes.gohugo.io/themes/hugo-book/'
+  name = 'Book'
+  url = 'https://github.com/wildanfq/book'
   weight = 20
 
 [params]
@@ -109,7 +109,7 @@ enableGitInfo = true
 
   # Here for backward compatibility, not required.
   # It's here as an example how to use it with BookLastChangeLink or BookEditLink
-  BookRepo = 'https://github.com/alex-shpak/hugo-book/'
+  BookRepo = 'https://github.com/wildanfq'
 
   # (Optional, default none) Set template for commit link for the page. Requires enableGitInfo.
   # When set enabled 'Last Modified' and a link to the commit in the footer of the page.
