@@ -16,8 +16,8 @@ const pages = [
   "/zh/tags/",
   "/he/tags/",
   "/book.min.cc2c524ed250aac81b23d1f4af87344917b325208841feca0968fe450f570575.css",
-  "/en.search-data.min.b36c543d68f9fb0f1fd9665f3d5682396492c2ae18b5ff116c830814b5fc67fd.json",
-  "/en.search.min.62054c381c0e025d54ff03bd68b5a85d6d9802c5eb7645abadf3ab8462443668.js",
+  "/en.search-data.min.f85af45e70782f7e726f17683490abd440bd87ebc0443e25c44d04e391082b01.json",
+  "/en.search.min.e4a12dc46f9f453aeec15280189c6458ef94fe18bc724bca435b76d4d306b45b.js",
   
 ];
 
