@@ -1,6 +1,7 @@
 ---
 title: "Curriculum Vitae"
 type: "docs"
+weight: 4
 bookToC: true
 ---
 
@@ -30,7 +31,7 @@ bookToC: true
 * **Strategic Leadership:** Membangun platform edukasi IT dari nol untuk meningkatkan literasi digital nasional, berfokus pada akses teknologi bagi talenta muda.
 * **Curriculum Design:** Menyusun silabus teknis meliputi Arsitektur Komputer, Jaringan Enterprise, dan Logika Pemrograman untuk menciptakan ekosistem belajar yang adaptif terhadap industri.
 
-#### **IT Support & Infrastructure Engineer** | Pesantren Miftahul Ulum Bakid
+#### **IT Support & Infrastructure Engineer** | Pesantren
 *Januari 2022 – Desember 2025*
 * **Virtualization Migration:** Memimpin migrasi dari infrastruktur fisik ke **Proxmox VE**, menghasilkan penghematan biaya operasional dan peningkatan efisiensi penggunaan perangkat keras sebesar **40%**.
 * **Network Stability:** Merancang dan memelihara jaringan institusi skala besar untuk ribuan pengguna dengan jaminan **uptime 99.9%** melalui implementasi jalur *redundancy*.

@@ -7,17 +7,19 @@ const pages = [
   "/categories/",
   "/zh/categories/",
   "/he/categories/",
+  "/docs/cv/",
   "/zh/",
   "/he/",
   "/",
-  "/docs/mermaid/",
+  "/docs/kritik/",
   "/showcases/",
+  "/docs/lamaran/",
   "/tags/",
   "/zh/tags/",
   "/he/tags/",
   "/book.min.cc2c524ed250aac81b23d1f4af87344917b325208841feca0968fe450f570575.css",
-  "/en.search-data.min.f85af45e70782f7e726f17683490abd440bd87ebc0443e25c44d04e391082b01.json",
-  "/en.search.min.e4a12dc46f9f453aeec15280189c6458ef94fe18bc724bca435b76d4d306b45b.js",
+  "/en.search-data.min.dc3525eddf698b34bf0c09313c023c12c7957ef9d8947afa46abf7bf79edd74c.json",
+  "/en.search.min.78adae883ec03a1a6daef4dd61b6606d6724c747d7f7eb95c78855b99256f5f7.js",
   
 ];
 

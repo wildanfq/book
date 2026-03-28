@@ -1,6 +1,7 @@
 ---
 title: "Surat Lamaran Kerja"
 type: "docs"
+weight: 3
 bookToC: true
 ---
 
@@ -8,6 +9,8 @@ bookToC: true
 **Wildan Firmani Quraisi**
 Lumajang, Jawa Timur | 083-809-922-207
 pronus.programmernusantara@gmail.com | [github.com/wildanfq](https://github.com/wildanfq)
+
+---
 
 **[Tanggal Hari Ini]**
 
