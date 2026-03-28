@@ -1,25 +1,25 @@
 const cacheName = self.location.pathname
 const pages = [
 
+  "/",
+  "/docs/kritik/",
+  "/docs/lamaran/",
+  "/docs/cv/",
   "/posts/creating-a-new-theme/",
   "/docs/",
   "/posts/",
   "/categories/",
   "/zh/categories/",
   "/he/categories/",
-  "/docs/cv/",
   "/zh/",
   "/he/",
-  "/",
-  "/docs/kritik/",
   "/showcases/",
-  "/docs/lamaran/",
   "/tags/",
   "/zh/tags/",
   "/he/tags/",
   "/book.min.cc2c524ed250aac81b23d1f4af87344917b325208841feca0968fe450f570575.css",
-  "/en.search-data.min.dc3525eddf698b34bf0c09313c023c12c7957ef9d8947afa46abf7bf79edd74c.json",
-  "/en.search.min.78adae883ec03a1a6daef4dd61b6606d6724c747d7f7eb95c78855b99256f5f7.js",
+  "/en.search-data.min.6d7b74a674abc05e924950183eeecc82377df9fc4a95c56f31f4ef55487ccba9.json",
+  "/en.search.min.0fdefa312ceaafc5e88ad7147a7f25b7674cbedf4b7ee035e772372481a42f02.js",
   
 ];
 
