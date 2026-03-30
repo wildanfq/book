@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Author on My Book</title><link>http://localhost:1313/docs/author/</link><description>Recent content in Author on My Book</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/docs/author/index.xml" rel="self" type="application/rss+xml"/><item><title>Profil</title><link>http://localhost:1313/docs/author/profile/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/author/profile/</guid><description>&lt;h1 id="wildan-firmani-quraisi"&gt;Wildan Firmani Quraisi&lt;a class="anchor" href="#wildan-firmani-quraisi"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;IT Infrastructure Engineer&lt;/strong&gt; | 20 Tahun&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="tentang-saya"&gt;Tentang Saya&lt;a class="anchor" href="#tentang-saya"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Saya adalah seorang teknisi dengan spesialisasi pada &lt;strong&gt;perbaikan komputer, infrastruktur server, dan jaringan.&lt;/strong&gt; Fokus riset mandiri saya saat ini adalah membangun sistem dari level terendah (&lt;em&gt;low-level engineering&lt;/em&gt;), yang mencakup:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hardware:&lt;/strong&gt; Desain PCB dengan &lt;strong&gt;KiCad&lt;/strong&gt; dan logika digital di &lt;strong&gt;Logisim&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Processor:&lt;/strong&gt; Implementasi arsitektur &lt;strong&gt;RISC-V&lt;/strong&gt; menggunakan &lt;strong&gt;Verilog&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Software:&lt;/strong&gt; Pengembangan OS sederhana dengan bahasa &lt;strong&gt;Zig&lt;/strong&gt; dan &lt;strong&gt;C&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="media-sosial--tutorial"&gt;Media Sosial &amp;amp; Tutorial&lt;a class="anchor" href="#media-sosial--tutorial"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Tempat saya membagikan opini teknologi dan panduan teknis:&lt;/p&gt;</description></item><item><title>Curriculum Vitae</title><link>http://localhost:1313/docs/author/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/author/cv/</guid><description>&lt;h1 id="wildan-firmani-quraisi"&gt;WILDAN FIRMANI QURAISI&lt;a class="anchor" href="#wildan-firmani-quraisi"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;IT Infrastructure Engineer | Systems &amp;amp; Network Engineer&lt;/strong&gt; Lumajang, Jawa Timur | 083-809-922-207 | &lt;a href="mailto:pronus.programmernusantara@gmail.com"&gt;pronus.programmernusantara@gmail.com&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://github.com/wildanfq"&gt;GitHub&lt;/a&gt; | &lt;a href="https://linkedin.com/in/wildanfq"&gt;LinkedIn&lt;/a&gt; | &lt;a href="https://youtube.com/@wildanfq"&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="professional-summary"&gt;PROFESSIONAL SUMMARY&lt;a class="anchor" href="#professional-summary"&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Early-Career IT Professional&lt;/strong&gt; dengan pengalaman praktis lebih dari 4 tahun dalam membangun dan mengelola infrastruktur teknologi kritis. Spesialis dalam arsitektur jaringan &lt;em&gt;high-availability&lt;/em&gt; (MikroTik, Cisco, Ruijie) dan virtualisasi server enterprise (Proxmox/VMware). Memiliki rekam jejak dalam mengoptimalkan sumber daya server hingga &lt;strong&gt;40%&lt;/strong&gt; dan menjaga stabilitas sistem dengan &lt;strong&gt;uptime 99.9%&lt;/strong&gt;. Membawa kedisiplinan tinggi dari latar belakang pendidikan pesantren dengan komitmen kuat pada keamanan data dan skalabilitas sistem.&lt;/p&gt;</description></item><item><title>Surat Lamaran Kerja</title><link>http://localhost:1313/docs/author/cover-letter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/author/cover-letter/</guid><description>&lt;h1 id="surat-lamaran-kerja"&gt;SURAT LAMARAN KERJA&lt;a class="anchor" href="#surat-lamaran-kerja"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Wildan Firmani Quraisi&lt;/strong&gt;
+Lumajang, Jawa Timur | 083-809-922-207
+&lt;a href="mailto:pronus.programmernusantara@gmail.com"&gt;pronus.programmernusantara@gmail.com&lt;/a&gt; | &lt;a href="https://github.com/wildanfq"&gt;github.com/wildanfq&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;[Tanggal Hari Ini]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kepada Yth.&lt;/strong&gt;
+&lt;strong&gt;Bapak/Ibu HRD [Nama Perusahaan]&lt;/strong&gt;
+&lt;strong&gt;[Alamat Perusahaan/Lokasi]&lt;/strong&gt;
+&lt;strong&gt;Di Tempat&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Perihal: Lamaran Pekerjaan – [Nama Posisi, misal: IT Infrastructure Engineer]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dengan hormat,&lt;/p&gt;
+&lt;p&gt;Melalui surat ini, saya bermaksud menyampaikan ketertarikan saya untuk melamar posisi &lt;strong&gt;[Nama Posisi]&lt;/strong&gt; di &lt;strong&gt;[Nama Perusahaan]&lt;/strong&gt;. Sebagai seorang praktisi IT yang tumbuh dan belajar di lingkungan &lt;strong&gt;Pesantren Miftahul Ulum Bakid&lt;/strong&gt;, saya membawa kombinasi unik antara ketangkasan teknis, kedisiplinan tinggi, dan kemampuan adaptasi yang cepat di lingkungan kerja yang dinamis.&lt;/p&gt;</description></item></channel></rss>
