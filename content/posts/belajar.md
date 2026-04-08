@@ -1,7 +1,7 @@
 ---
 author: "Wildan Firmani Quraisi"
 date: 2026-03-30
-linktitle: Baca selengkapnya
+linktitle: Belajar cara belajar
 menu:
   main:
     parent: tutorials
@@ -10,8 +10,6 @@ prev: /tutorials/automated-deployments
 title: Belajar Cara Belajar
 weight: 10
 ---
-
-# Belajar Cara Belajar
 
 Belajar adalah sebuah *skill* yang bisa dipelajari. Sebagai seorang *Computer Engineer* yang terbiasa membangun sistem dari titik nol, saya memandang proses belajar bukan sekadar rutinitas menghafal, melainkan sebuah **rekayasa sistem** pada diri sendiri.
 
@@ -51,7 +49,7 @@ Ilmu yang hanya dibaca akan menguap. Teori ibarat resep; ia tidak akan membuat A
 * **Uji Coba Langsung:** Segera terapkan teori ke dalam proyek nyata atau portofolio.
 * **Debugging sebagai Guru:** Saat gagal, di situlah pelajaran berharga muncul. Mencari letak kesalahan dan memperbaikinya adalah jalan pintas terbaik memahami cara kerja suatu sistem.
 
-## 5. Kembalikan Ilmu (The Feynman Technique)
+## 5. Kembalikan Ilmu
 
 Cara paling akurat mengetes pemahaman adalah dengan menjelaskan kembali ilmu tersebut kepada orang lain.
 

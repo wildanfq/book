@@ -5,8 +5,6 @@ weight: 1
 bookToC: false
 ---
 
-# Selamat Datang di Nusantara School
+**Nusantara School** adalah platform edukasi terbuka yang didedikasikan bagi siapa saja yang ingin memahami dunia komputer secara mendalam dan menyeluruh—mulai dari dasar elektronika hingga arsitektur sistem tingkat tinggi.
 
-Platform edukasi terbuka yang didedikasikan bagi siapa saja yang ingin memahami teknologi komputer secara mendalam dan menyeluruh. 
-
-Mulai dari dasar **Elektronika** menggunakan **KiCad**, eksplorasi **Arsitektur Komputer** berbasis **RISC-V** melalui **Logisim Evolution**, hingga implementasi **HDL Verilog** dan alur desain chip dengan **OpenLane**, sampai akhirnya membangun **Sistem Operasi** yang berjalan di atasnya.
+Kami membimbing Anda dari nol hingga mampu membangun **Project Akhir**: merancang sebuah komputer FPGA sederhana berbasis **ISA RISC-V** dan menjalankan sistem operasi berbasis **Microkernel** buatan sendiri.
