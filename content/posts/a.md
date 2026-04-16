@@ -1,14 +1,14 @@
 ---
 author: "Wildan Firmani Quraisi"
-date: 2026-03-30
+date: 2026-03-01
 linktitle: Belajar cara belajar
 menu:
   main:
     parent: tutorials
 next: /tutorials/github-pages-blog
-prev: /tutorials/automated-deployments
+prev: /tutorials/belajar
 title: Belajar Cara Belajar
-weight: 10
+weight: 30
 ---
 
 Belajar adalah sebuah *skill* yang bisa dipelajari. Sebagai seorang *Computer Engineer* yang terbiasa membangun sistem dari titik nol, saya memandang proses belajar bukan sekadar rutinitas menghafal, melainkan sebuah **rekayasa sistem** pada diri sendiri.
