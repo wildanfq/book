@@ -35,8 +35,10 @@ Disebut &amp;ldquo;Basis 10&amp;rdquo; karena punya 10 bentuk angka yang berbeda
 &lt;p&gt;Inti dari rangkaian sekuensial adalah hadirnya elemen &lt;strong&gt;Memori&lt;/strong&gt;. Kemampuan sirkuit untuk &amp;ldquo;mengingat&amp;rdquo; informasi ini adalah fondasi mutlak dalam pembuatan arsitektur prosesor seperti &lt;strong&gt;RISC-V&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id="1-konsep-clock-sinyal-detak"&gt;1. Konsep Clock (Sinyal Detak)&lt;a class="anchor" href="#1-konsep-clock-sinyal-detak"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Sebelum memahami komponen memori, kita wajib memahami konsep &lt;strong&gt;Clock&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Profil</title><link>http://localhost:1313/docs/profile/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/profile/</guid><description>&lt;h1 id="wildan-firmani-quraisi"&gt;Wildan Firmani Quraisi&lt;a class="anchor" href="#wildan-firmani-quraisi"&gt;#&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;IT Infrastructure Engineer yang berfokus pada keandalan sistem (system reliability), keamanan jaringan, dan efisiensi operasional. Saya mengintegrasikan infrastruktur fisik (bare-metal) dengan teknologi cloud modern untuk menciptakan solusi yang tangguh, skalabel, dan efisien secara biaya.&lt;/p&gt;
-&lt;h2 id="infrastructure-modernization--cloud-management"&gt;Infrastructure Modernization &amp;amp; Cloud Management&lt;a class="anchor" href="#infrastructure-modernization--cloud-management"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Infrastructure as Code (IaC): Mengotomatisasi proses provisioning infrastruktur secara deklaratif menggunakan Terraform dan menjalankan manajemen konfigurasi agentless dengan Ansible.&lt;/p&gt;
-&lt;p&gt;Cloud &amp;amp; OS Administration: Spesialis dalam pengelolaan beban kerja pada Google Cloud Platform (GCP) serta administrasi sistem operasi Linux Enterprise (Ubuntu, Debian, CentOS).&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Sebelum memahami komponen memori, kita wajib memahami konsep &lt;strong&gt;Clock&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Profil</title><link>http://localhost:1313/docs/profile/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/profile/</guid><description>&lt;p&gt;Tempat saya membagikan eksperimen, opini teknologi, dan panduan teknis:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/wildanfq"&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt; — &lt;em&gt;Lab Experiments &amp;amp; Source Code&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://youtube.com/nusa"&gt;&lt;strong&gt;YouTube (Nusa Tech)&lt;/strong&gt;&lt;/a&gt; — &lt;em&gt;Technical Tutorials &amp;amp; Hardware Reviews&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/in/wildan-firmani-quraisi-4705b7275/"&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;&lt;/a&gt; — &lt;em&gt;Professional Network&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/FirmaniWil5229"&gt;&lt;strong&gt;X (Twitter)&lt;/strong&gt;&lt;/a&gt; — &lt;em&gt;Tech Updates &amp;amp; Thoughts&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
