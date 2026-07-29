@@ -1,5 +1,3 @@
-# Linux
-
 Ekosistem Linux tidak dibangun sebagai satu entitas tunggal yang besar, melainkan sebagai sistem yang bersifat modular, terstruktur, dan berlapis. Untuk memahami Linux secara mendalam, kita perlu membedahnya secara runtut: mulai dari sejarah dan latar belakangnya, struktur inti berupa kernel, proses pembentukan sistem operasi yang utuh, hingga akhirnya berkembang menjadi berbagai distribusi (distro) yang siap digunakan oleh pengguna dengan kebutuhan yang berbeda-beda.
 
 ---

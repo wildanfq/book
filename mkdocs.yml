@@ -1,10 +1,15 @@
-site_name: Wildan FQ
+site_name: Book
 
 theme:
   name: readthedocs
   highlightjs: true
-  fail_on_warning: false
   logo: img/logo.png
 
 extra_css:
   - css/custom.css
+
+nav:
+  - 1: index.md
+  - 2: 2.md
+  - 3: 3.md
+  - 4: 4.md
