@@ -1,40 +1,162 @@
-.wy-nav-content-wrap {
-    max-width: 100% !important;
-    background: #ffffff !important;
-    float: none !important;
-    margin-left: 280px !important;
-}
+/* Layout dokumentasi */
+.wy-nav-content { max-width: none; width: auto; margin: 0; padding: 2rem 3rem; box-sizing: border-box; }
 
-.wy-nav-content {
-    max-width: 850px !important;
-    margin: 0 auto !important;
-    padding: 40px 50px !important;
-}
-
-/* Logo saja */
-.wy-side-nav-search img.logo {
-    background: transparent !important;
-    border-radius: 50% !important;
-    width: 100px !important;
-    height: 100px !important;
-    object-fit: cover !important;
-    margin-top: 10px !important;
-    margin-bottom: 12px !important;
-    border: 2px solid rgba(255, 255, 255, 0.2) !important;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15) !important;
-}
-
-/* Posisi logo tetap center */
-.wy-side-nav-search > a {
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important;
-    text-align: center !important;
-}
-
+/* Hilangkan footer */
 footer,
 .rst-footer,
+.rst-footer-buttons,
 .wy-footer,
 div[role="contentinfo"] {
     display: none !important;
+}
+
+/* Hanya tampilkan search */
+.wy-side-nav-search > a {
+    display: none;
+}
+
+.wy-side-nav-search {
+    padding-top: 1rem;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+
+    /* Halaman */
+    body,
+    .wy-nav-content-wrap,
+    .wy-nav-content {
+        background: #1e1e1e;
+        color: #d4d4d4;
+    }
+
+    /* Sidebar */
+    .wy-nav-side,
+    .wy-side-nav-search {
+        background: #252525 !important;
+    }
+
+    /* Menu */
+    .wy-menu-vertical li a {
+        color: #d4d4d4 !important;
+        background: transparent !important;
+        border: 0 !important;
+    }
+
+    .wy-menu-vertical li a:hover {
+        color: #ffffff !important;
+        background: #333333 !important;
+    }
+
+    /* Menu aktif */
+    .wy-menu-vertical li.current > a {
+        color: #ffffff !important;
+        background: #333333 !important;
+        border: 0 !important;
+    }
+
+    /* Submenu */
+    .wy-menu-vertical li.current ul {
+        background: #252525 !important;
+        border: 0 !important;
+    }
+
+    .wy-menu-vertical li.current ul li a {
+        color: #d4d4d4 !important;
+        background: transparent !important;
+        border: 0 !important;
+    }
+
+    /* Submenu aktif */
+    .wy-menu-vertical li.current ul li.current > a {
+        color: #ffffff !important;
+        background: #3a3a3a !important;
+    }
+
+    /* Ikon expand/collapse */
+    .wy-menu-vertical .toctree-expand {
+        color: #aaaaaa !important;
+    }
+
+    /* Search */
+    .wy-side-nav-search input[type="text"] {
+        background: #ffffff !important;
+        color: #333333 !important;
+        border: 0 !important;
+    }
+
+    /* Code block */
+    .wy-nav-content pre,
+    .wy-nav-content .highlight {
+        background: #282c34 !important;
+        color: #abb2bf !important;
+        border: 0 !important;
+    }
+
+    .wy-nav-content pre code,
+    .wy-nav-content .highlight code {
+        background: transparent !important;
+        color: #abb2bf !important;
+    }
+
+    /* Syntax highlighting */
+    .hljs-comment,
+    .hljs-quote {
+        color: #7f848e;
+    }
+
+    .hljs-keyword,
+    .hljs-selector-tag,
+    .hljs-built_in,
+    .hljs-name {
+        color: #c678dd;
+    }
+
+    .hljs-string,
+    .hljs-attr,
+    .hljs-template-tag,
+    .hljs-template-variable {
+        color: #98c379;
+    }
+
+    .hljs-number,
+    .hljs-literal,
+    .hljs-variable,
+    .hljs-tag .hljs-attr {
+        color: #d19a66;
+    }
+
+    .hljs-title,
+    .hljs-section,
+    .hljs-title.function_,
+    .hljs-title.class_ {
+        color: #61afef;
+    }
+
+    .hljs-meta {
+        color: #56b6c2;
+    }
+
+    .hljs-symbol,
+    .hljs-bullet,
+    .hljs-type {
+        color: #e5c07b;
+    }
+
+    .hljs-addition {
+        color: #98c379;
+    }
+
+    .hljs-deletion {
+        color: #e06c75;
+    }
+}
+
+/* Mobile */
+@media screen and (max-width: 768px) {
+    .wy-nav-content {
+        max-width: none;
+        margin: 0;
+        padding: 1.5rem;
+    }
 }
