@@ -3,7 +3,10 @@ site_name: Book
 theme:
   name: readthedocs
   highlightjs: true
-  logo: img/logo.png
+  hljs_languages:
+    - go
+    - shell
+    - dockerfile
 
 extra_css:
   - css/custom.css
